@@ -1,0 +1,61 @@
+[
+	{
+		"symbol": "SPA",
+		"country": "England",
+		"address": "address",
+		"city": "London",
+		"created": 1705320136088,
+		"codeExpiration": "3",
+		"postcode": "23123",
+		"cname": "JackS",
+		"cnumber": "11131",
+		"modules": [
+			{
+				"level": "3",
+				"options": [
+					{
+						"id": "0995-001",
+						"value": 12
+					},
+					{
+						"id": "0995-005",
+						"value": 31
+					}
+				],
+				"id": "0995"
+			},
+			{
+				"level": "2",
+				"options": [
+					{
+						"id": "0998-00201",
+						"value": 312
+					},
+					{
+						"id": "0998-00204",
+						"value": 123
+					}
+				],
+				"id": "0998"
+			},
+			{
+				"level": "2",
+				"options": [
+					{
+						"id": "1000-0001",
+						"value": 12
+					}
+				],
+				"id": "1000"
+			}
+		],
+		"saveip": 1,
+		"isCurrent": 1,
+		"matchcode": "sp4445",
+		"phone": "+435546324342",
+		"PK": "f435474c-1ee5-413b-ad9a-557b37ec6b42",
+		"email": "jacksp@gmail.com",
+		"homepage": "jack.com",
+		"username": "admincustomer"
+	}
+]
