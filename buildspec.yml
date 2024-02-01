@@ -13,10 +13,10 @@ phases:
       - echo Compiling the React code...
       - npm run build
       - echo Zipping the build artifacts...
-      - cd build
+      - cd dist
       - zip -r ../build-output.zip .
       - echo Copying the build artifacts to S3...
-      - aws s3 cp ../build-output.zip s3://398779562917-deployment-artifact/
+      - aws s3 cp ../build-output.zip s3://394294407754-deployment-artifact/
 
 artifacts:
   files:
